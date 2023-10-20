@@ -1,1 +1,1 @@
-KEY_BYTE_CNT = 3
+KEY_BYTE_CNT = 4
